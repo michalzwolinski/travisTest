@@ -7,6 +7,6 @@
 
 module.exports = {
 	action: function (req, res) {
-		console.log('test');
+		console.log('recolved');
 	}
 };
